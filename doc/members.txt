@@ -1,0 +1,43 @@
+Name: <your name>
+Account: <your account>
+Have you been on co-op? <yes or no>
+List 1 to 3 programming languages you know: <L1> <L2> <L3>
+List 1 to 3 hobbies or interests: <H1> <H2> <H3>
+
+---
+
+Name: Edward Riley
+Account: emr9018
+Have you been on co-op? Yes
+List 1 to 3 programming languages you know: Java, C#, Python
+List 1 to 3 hobbies or interests: Fishing, Chess, Video Gaming
+
+---
+Name: Justin Newton
+Account: jmn6815
+Have you been on co-op? Yes
+List 1 to 3 programming languages you know: C#, Java, JavaScript
+List 1 to 3 hobbies or interests: Gaming, Socializing, Watch Sports
+
+---
+
+Name: Aaron Parker
+Account: Vanguard714
+Have you been on co-op? Yes
+List 1 to 3 programming languages you know: C#, Java, Python
+List 1 to 3 hobbies or interests: Gaming, Football, Snowboarding
+
+---
+Name: Vincent Venutolo
+Account: vxv2326
+Have you been on co-op? Yes
+List 1 to 3 programming languages you know: C#, Java, JavaScript
+List 1 to 3 hobbies or interests: Gaming, Socializing, Exploring, Brewery
+
+---
+
+Name: Aaron Kelly
+Account: axk3897
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java, C#, JavaScript
+List 1 to 3 hobbies or interests: Video game online, YouTube, Yu-Gi-OH!(card game)

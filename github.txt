@@ -1,0 +1,165 @@
+[33mcommit 493747912999869166f698a0619ca94fa175c42c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vincent <vxv2326@rit.edu>
+Date:   Thu Sep 26 10:55:17 2019 -0400
+
+    added to member.txt
+
+[33mcommit 46a3daea9dfce4cb7794c3dea7d1574abd951abc[m
+Author: Vanguard714 <Joel.Parker714@outlook.com>
+Date:   Thu Sep 26 10:53:56 2019 -0400
+
+    Update members.txt
+
+[33mcommit 5fc5b3726fd8926cf03d15af5054f24a432f9486[m
+Merge: af93060 0495802
+Author: Aaron Kelly <axk3897@rit.edu>
+Date:   Thu Sep 26 10:41:11 2019 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383/2191-swen-383-01-a-beep_boop
+
+[33mcommit 0495802a406f9c2f0190ab5dc3e9c036885e590d[m[33m ([m[1;31morigin/pre-master[m[33m, [m[1;32mpre-master[m[33m)[m
+Author: emr9018 <emr9018@rit.edu>
+Date:   Thu Sep 26 10:39:38 2019 -0400
+
+    Remoivng useless DS_Store junk
+
+[33mcommit af930602590510776c20de7ca20b44e35293b500[m
+Merge: 284a7af ad9aafb
+Author: Aaron Kelly <axk3897@rit.edu>
+Date:   Thu Sep 26 10:39:28 2019 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383/2191-swen-383-01-a-beep_boop
+
+[33mcommit ad9aafbcaabc12f02c599730be67f2341ce2e06b[m
+Merge: e7be89d 0e77c81
+Author: emr9018 <emr9018@rit.edu>
+Date:   Thu Sep 26 10:37:48 2019 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383/2191-swen-383-01-a-beep_boop
+
+[33mcommit 284a7aff394ce17a4eb4d2f201865a1442f76fec[m
+Merge: b08363b 0e77c81
+Author: Aaron Kelly <axk3897@rit.edu>
+Date:   Thu Sep 26 10:37:42 2019 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383/2191-swen-383-01-a-beep_boop
+
+[33mcommit 0e77c817838d44dc68babb18d3dc11f60664fe29[m
+Author: Joel Parker <Joel.Parker714@outlook.com>
+Date:   Thu Sep 26 10:37:27 2019 -0400
+
+    Add activity 3b
+
+[33mcommit e7be89d28c29e13f097d1f2702e7b2fb7744ee85[m
+Merge: b08363b f52308b
+Author: emr9018 <emr9018@rit.edu>
+Date:   Thu Sep 26 10:36:33 2019 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383/2191-swen-383-01-a-beep_boop
+
+[33mcommit f52308baf754a89ffe32f35cc0a16441ad1048ea[m
+Author: Justin Newton <just.newt0@gmail.com>
+Date:   Thu Sep 26 10:35:11 2019 -0400
+
+    Added my name in member.txt
+
+[33mcommit b08363b46b7d5ed0e3a6fe862ec1b5e12dda5cc7[m
+Author: emr9018 <emr9018@rit.edu>
+Date:   Thu Sep 26 10:35:09 2019 -0400
+
+    merge PDF
+
+[33mcommit 1cf78b90cce8ae1e650b8d781ef6e3ece8215125[m
+Author: emr9018 <emr9018@rit.edu>
+Date:   Thu Sep 26 10:33:16 2019 -0400
+
+    edit mistakes
+
+[33mcommit d14e7b7d593649a2cd6359b1089f141330e2fd30[m[33m ([m[1;33mtag: initial[m[33m)[m
+Author: Aaron Kelly <axk3897@rit.edu>
+Date:   Thu Sep 26 10:28:28 2019 -0400
+
+    added my folder named activity4_ak for UML activity
+
+[33mcommit a08d46a2cebbe36de43373b3810f112b16a890a6[m
+Author: Joel Parker <Joel.Parker714@outlook.com>
+Date:   Thu Sep 26 10:27:17 2019 -0400
+
+    add Src
+
+[33mcommit df5b54b140070869b017bcf15251a1d0747f5f9f[m
+Author: emr9018 <emr9018@rit.edu>
+Date:   Thu Sep 26 10:18:01 2019 -0400
+
+    Add members.txt
+    
+    This will add members.txt
+    -Edward Riley
+
+[33mcommit df6c4853b991456a2a330a98b1fa60da2a32e258[m
+Author: newtonju <33043115+newtonju@users.noreply.github.com>
+Date:   Thu Sep 26 10:13:32 2019 -0400
+
+    Update README.md
+
+[33mcommit 2edcf2fb499da4baa598986488f1f2b9d5a94472[m
+Author: Justin Newton <just.newt0@gmail.com>
+Date:   Thu Sep 26 10:12:41 2019 -0400
+
+    Justin's Update
+
+[33mcommit 77b0689a2fe27761f6bf8f6fa8ca23aa11e03bbc[m
+Author: Vincent <vxv2326@rit.edu>
+Date:   Thu Sep 26 10:07:22 2019 -0400
+
+    added my name
+
+[33mcommit 640e3e54e327081f96446e097b8180fdd583b620[m
+Author: Zero Xera <44376988+ZXDragon360@users.noreply.github.com>
+Date:   Thu Sep 26 09:54:36 2019 -0400
+
+    Update README.md
+
+[33mcommit 5f2860a467d0046d5cc0827026702f009a8b567a[m
+Author: UnknownMurders <Mason.riley@live.com>
+Date:   Tue Sep 24 14:40:00 2019 -0400
+
+    Revert "Update README.md"
+    
+    This reverts commit 69cecab7a4abae805e4f74505b4e6e9023e531df.
+
+[33mcommit 69cecab7a4abae805e4f74505b4e6e9023e531df[m
+Author: emr9018 <55459510+emr9018@users.noreply.github.com>
+Date:   Tue Sep 24 14:17:16 2019 -0400
+
+    Update README.md
+
+[33mcommit f9bb0636632a4b7c437cc17af57908b29601e033[m
+Author: Vanguard714 <Joel.Parker714@outlook.com>
+Date:   Tue Sep 24 12:56:10 2019 -0400
+
+    Update README.md
+
+[33mcommit f3b7447b37c7f447862271c9b1c85bf542352b38[m
+Author: emr9018 <55459510+emr9018@users.noreply.github.com>
+Date:   Tue Sep 24 11:59:51 2019 -0400
+
+    Update README.md
+
+[33mcommit efb637a5261047c375fcb2ef60138be5db21f2a2[m
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:53:07 2018 -0500
+
+    Update README.md
+
+[33mcommit 255b490386ebf0a392cd6556fdf4e2b5e6d2c2a7[m
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:50:49 2018 -0500
+
+    Update README.md
+
+[33mcommit abd3abfd3b9a3e259f04ecb1058f9e179530ce9a[m
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:47:03 2018 -0500
+
+    Initial commit
